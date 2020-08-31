@@ -4,7 +4,7 @@ In this project, I'm using selected columns from a speed dating dataset to predi
 
 Please refer to the PDF file for results and overview of the project.
 
-Accompanying post [here](https://medium.com/@linanpy/10-traits-of-successful-daters-a93370c13889)
+You can find the accompanying blog post [here](https://medium.com/@linanpy/10-traits-of-successful-daters-a93370c13889)
 
 Notebooks are organized in the following order:
 

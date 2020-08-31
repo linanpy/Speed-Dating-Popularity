@@ -4,4 +4,10 @@ In this project, I'm using selected columns from a speed dating dataset to predi
 
 Please refer to the PDF file for results and overview of the project.
 
-Accompanying post to be added soon!
+Accompanying post ![here](https://medium.com/@linanpy/10-traits-of-successful-daters-a93370c13889)
+
+Notebooks are organized in the following order:
+
+1. Clean
+2. EDA
+3. Model
